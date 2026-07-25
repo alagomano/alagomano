@@ -6,13 +6,13 @@
 
 <br>
 
-<a href="https://linkedin.com/in/nicolas-brayan">
+<a href="https://linkedin.com/in/nicolas-brayan" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="https://github.com/alagomano">
+<a href="https://github.com/alagomano" target="_blank">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-<a href="mailto:SEUEMAIL">
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=nicolas.brayan.silva@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
@@ -54,26 +54,6 @@ Atualmente participo do projeto de extensão **"Introdução ao Linux: da Teoria
 <br/>
 <br/>
 
-*JDBC, H2 e Pandas também fazem parte do meu dia a dia, mas ainda não têm ícone disponível aqui :)*
+*JDBC e H2 também fazem parte do meu dia a dia, mas ainda não têm ícone disponível aqui :)*
 
 <br/>
-
-### 📊 Estatísticas
-
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=alagomano&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=alagomano&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
-</p>
