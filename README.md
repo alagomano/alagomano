@@ -53,27 +53,22 @@ Atualmente participo do projeto de extensão **"Introdução ao Linux: da Teoria
 
 <div align="center">
 
-**Linguagens**
-
-<img src="https://skillicons.dev/icons?i=java,python,js,ts,c,cpp,mysql"/>
-
-**Backend**
-
-<img src="https://skillicons.dev/icons?i=spring,maven,hibernate"/>
-
-**Front-end**
-
-<img src="https://skillicons.dev/icons?i=react,html,css"/>
-
-**Banco de Dados**
-
-<img src="https://skillicons.dev/icons?i=mysql,mongodb"/>
-
-**Ferramentas**
-
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,idea,vscode,postman"/>
+<img src="https://skillicons.dev/icons?i=java,python,c,spring,hibernate,maven,mysql,postgres,git,github,linux,idea,vscode,postman,html,css"/>
 
 </div>
+
+<br>
+
+| Categoria | Tecnologias |
+|---|---|
+| Linguagens | Java, Python, C |
+| Persistência | JDBC, JPA / Hibernate |
+| Framework | Spring Boot |
+| Build | Maven |
+| Banco de Dados | MySQL, PostgreSQL, H2 |
+| Front-end *(pouco contato)* | HTML, CSS |
+| Dados | Pandas |
+| Ferramentas | Git, GitHub, Linux, IntelliJ, VS Code, Postman |
 
 <br>
 
