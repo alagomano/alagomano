@@ -1,136 +1,105 @@
-````markdown
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0F172A,50:2563EB,100:06B6D4&text=Nicolas%20Brayan&fontColor=ffffff&fontAlignY=38&desc=Computer%20Science%20Student%20%40%20UFRJ&descAlignY=58&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F172A,50:2563EB,100:06B6D4&text=Nicolas%20Brayan&fontColor=ffffff&fontAlignY=38&desc=Computer%20Science%20Student%20@%20UFRJ&descAlignY=58&animation=fadeIn"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3500&pause=1000&color=38BDF8&center=true&vCenter=true&width=850&lines=Building+software+that+solves+real+problems.;Backend+Development+%E2%80%A2+Data+Science+%E2%80%A2+Open+Source.;Always+learning.+Always+building." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3500&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Building+software+that+solves+real+problems.;Backend+Development+%E2%80%A2+Data+Science+%E2%80%A2+Open+Source.;Always+learning.+Always+building." />
 
 <br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nicolas-brayan)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alagomano)
-[![Gmail](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SEUEMAIL)
+<a href="https://linkedin.com/in/nicolas-brayan">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://github.com/alagomano">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="mailto:SEUEMAIL">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
 </div>
 
----
+<br>
 
-# こんにちは、Hello, Olá! 👋
+## Sobre mim
 
-```java
-public class Nicolas {
+Sou estudante de **Ciência da Computação na UFRJ**, natural de **Alagoas** e atualmente residindo no **Rio de Janeiro**. Tenho interesse em **Engenharia de Software**, **Desenvolvimento Back-end**, **Sistemas Distribuídos** e **Ciência de Dados**, com foco em construir aplicações robustas, escaláveis e bem estruturadas.
 
-    private final String university = "Universidade Federal do Rio de Janeiro (UFRJ)";
-    private final String course = "Computer Science";
-    private final String hometown = "Alagoas, Brasil";
-    private final String currentCity = "Rio de Janeiro, Brasil";
+Acredito que escrever código vai muito além de implementar funcionalidades — gosto de compreender problemas a fundo, projetar soluções bem pensadas e desenvolver sistemas simples de manter e capazes de gerar impacto real.
 
-    private final String[] interests = {
-        "Software Engineering",
-        "Backend Development",
-        "Distributed Systems",
-        "Data Science",
-        "Artificial Intelligence"
-    };
+Atualmente participo do projeto de extensão **"Introdução ao Linux: da Teoria à Prática"**, experiência que tem fortalecido minhas habilidades de comunicação, colaboração e organização.
 
-    public String lifeGoal() {
-        return "Building technology that creates real impact.";
-    }
-}
-```
+<br>
 
----
-
-# Sobre mim
-
-Sou estudante de **Ciência da Computação na Universidade Federal do Rio de Janeiro (UFRJ)**, natural de **Alagoas** e atualmente residente no **Rio de Janeiro**.
-
-Tenho interesse em **Engenharia de Software**, **Desenvolvimento Back-end**, **Sistemas Computacionais** e **Ciência de Dados**, buscando construir aplicações robustas, escaláveis e bem estruturadas.
-
-Atualmente participo do projeto de extensão **"Introdução ao Linux: da Teoria à Prática"**, experiência que fortaleceu minhas habilidades de comunicação, colaboração e organização, além de ampliar minha vivência acadêmica.
-
-Acredito que escrever código vai muito além de implementar funcionalidades. Gosto de compreender problemas, projetar soluções bem estruturadas e desenvolver sistemas que sejam simples de manter, fáceis de evoluir e capazes de gerar impacto real.
-
----
-
-# Atualmente
+## O que estou fazendo agora
 
 ```text
-🎓 Ciência da Computação — UFRJ
+🎓  Cursando Ciência da Computação — UFRJ
 
-💻 Estudando
-├── Spring Boot
-├── JPA / Hibernate
-├── Arquitetura de Software
-├── Microsserviços
-└── Data Science
+💻  Estudando
+    ├── Spring Boot
+    ├── JPA / Hibernate
+    ├── Arquitetura de Software
+    ├── Microsserviços
+    └── Data Science
 
-🐧 Extensionista
-└── Introdução ao Linux: da Teoria à Prática
+🐧  Extensionista em "Introdução ao Linux: da Teoria à Prática"
 
-🚀 Objetivo
-└── Contribuir para projetos de software de alto impacto.
+🚀  Objetivo: contribuir para projetos de software de alto impacto
 ```
 
----
+<br>
 
-# Stack Tecnológica
+## Stack Tecnológica
 
 <div align="center">
 
-## Linguagens
+**Linguagens**
 
 <img src="https://skillicons.dev/icons?i=java,python,js,ts,c,cpp,mysql"/>
 
-## Backend
+**Backend**
 
 <img src="https://skillicons.dev/icons?i=spring,maven,hibernate"/>
 
-## Front-end
+**Front-end**
 
 <img src="https://skillicons.dev/icons?i=react,html,css"/>
 
-## Banco de Dados
+**Banco de Dados**
 
 <img src="https://skillicons.dev/icons?i=mysql,mongodb"/>
 
-## Ferramentas
+**Ferramentas**
 
 <img src="https://skillicons.dev/icons?i=git,github,docker,linux,idea,vscode,postman"/>
 
 </div>
 
----
+<br>
 
-# Engenharia de Software
+## Competências em Engenharia de Software
 
-```text
-SOLID                ████████████████████
+| Área | Nível |
+|---|---|
+| SOLID | ████████████████████ |
+| Programação Orientada a Objetos | ████████████████████ |
+| REST APIs | ██████████████████ |
+| Git | ███████████████████ |
+| SQL | ███████████████████ |
+| Clean Code | ██████████████████ |
+| Modelagem UML | █████████████████ |
+| Arquitetura MVC | █████████████████ |
 
-Programação OO       ████████████████████
+<br>
 
-REST APIs            ██████████████████
+## Projetos em Destaque
 
-Modelagem UML        █████████████████
+<table>
+<tr>
+<td width="50%" valign="top">
 
-Git                  ███████████████████
-
-SQL                  ███████████████████
-
-Clean Code           ██████████████████
-
-Arquitetura MVC      █████████████████
-```
-
----
-
-# Projetos em Destaque
-
-### Sistema de Gerenciamento para Oficina Mecânica
-
-Backend completo utilizando Java, Spring Boot, JPA, Hibernate e MySQL.
-
-**Destaques**
+### 🔧 Sistema de Gerenciamento para Oficina Mecânica
+Backend completo em Java, Spring Boot, JPA, Hibernate e MySQL.
 
 - Arquitetura em camadas
 - CRUD completo
@@ -138,115 +107,86 @@ Backend completo utilizando Java, Spring Boot, JPA, Hibernate e MySQL.
 - API REST
 - Boas práticas de Engenharia de Software
 
----
+</td>
+<td width="50%" valign="top">
 
-### RotaRio
-
-Projeto desenvolvido durante Hackathon da UFRJ.
-
-Sistema inteligente para geração de rotas mais seguras utilizando:
+### 🗺️ RotaRio
+Projeto desenvolvido em Hackathon da UFRJ — sistema inteligente para geração de rotas mais seguras.
 
 - Ciência de Dados
-- OpenStreetMap
-- Leaflet
+- OpenStreetMap + Leaflet
 - H3 Hexagonal Index
-- Python
-- JavaScript
+- Python / JavaScript
 
----
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-### Sistema Bancário em Java
+### 🏦 Sistema Bancário em Java
+Projeto para aprofundamento em POO.
 
-Projeto para aprofundamento em Programação Orientada a Objetos.
-
-Inclui:
-
-- Collections
-- Exceptions
-- Herança
-- Polimorfismo
+- Collections e Exceptions
+- Herança e Polimorfismo
 - Interfaces
-- Persistência
+- Persistência de dados
 
----
+</td>
+<td width="50%" valign="top">
 
-### Estudos em Spring Boot
+### 🌱 Estudos em Spring Boot
+Repositório dedicado à experimentação e aprendizado contínuo.
 
-Repositório dedicado à experimentação e aprendizado de:
-
-- Spring Boot
-- Spring Data JPA
+- Spring Boot / Spring Data JPA
 - Hibernate
 - Maven
-- APIs REST
-- MySQL
+- APIs REST + MySQL
 
----
+</td>
+</tr>
+</table>
 
-# Filosofia
+<br>
 
-> "A tecnologia muda constantemente. Os princípios de engenharia permanecem."
+## Filosofia
 
-Meu objetivo não é apenas aprender novas ferramentas, mas compreender como projetar sistemas escaláveis, legíveis e sustentáveis.
+> *"A tecnologia muda constantemente. Os princípios de engenharia permanecem."*
 
-Valorizo código limpo, boas práticas, arquitetura consistente e aprendizado contínuo.
+Meu objetivo não é apenas aprender novas ferramentas, mas compreender como projetar sistemas escaláveis, legíveis e sustentáveis — valorizando código limpo, boas práticas e arquitetura consistente.
 
----
+<br>
 
-# GitHub Analytics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=alagomano&show_icons=true&theme=transparent&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alagomano&layout=compact&theme=transparent&hide_border=true"/>
-
-</div>
-
----
+## GitHub Analytics
 
 <div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=alagomano&show_icons=true&theme=transparent&hide_border=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alagomano&layout=compact&theme=transparent&hide_border=true"/>
+
+<br>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=alagomano&theme=github-compact&hide_border=true"/>
 
 </div>
 
----
+<br>
 
-# Um pouco além do código
+## Além do código
 
-```text
-☕ Café
+☕ Café &nbsp;•&nbsp; 📚 Livros sobre tecnologia &nbsp;•&nbsp; 🐧 Linux &nbsp;•&nbsp; 🚀 Open Source &nbsp;•&nbsp; 🧠 Aprendizado contínuo &nbsp;•&nbsp; 🎯 Resolver problemas reais
 
-📚 Livros sobre tecnologia
-
-🐧 Linux
-
-🚀 Open Source
-
-🧠 Aprendizado Contínuo
-
-🎯 Resolver problemas reais
-```
-
----
-
-# Vamos conectar?
+<br>
 
 <div align="center">
 
-"A melhor forma de aprender tecnologia é construindo."
-
-<br><br>
+### Vamos conectar?
 
 <a href="https://linkedin.com/in/nicolas-brayan">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
 <a href="https://github.com/alagomano">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-
 <a href="mailto:SEUEMAIL">
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
@@ -257,6 +197,4 @@ Valorizo código limpo, boas práticas, arquitetura consistente e aprendizado co
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:0F172A,50:2563EB,100:06B6D4"/>
-
-````
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=110&color=0:0F172A,50:2563EB,100:06B6D4"/>
